@@ -18,4 +18,3 @@ we determine whether the eyes are open or they are closed.</br></br>
 </p>
 
 
-<h2>Detailed Explanation video of the project : </h2><a href="https://youtu.be/ksi42rwGyas">Youtube video link</a>
