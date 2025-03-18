@@ -23,8 +23,9 @@ we determine whether the eyes are open or they are closed.</br></br>
 3) Extract the folder.
 4) Run it in Visual Studio Code.
 
-## 👩‍💻 Contributors  
+## 👩‍💻 Contributors/Collaborators  
 - [Saileen Fernandes (@Sai25Hajime)](https://github.com/Sai25Hajime)
-  
-- [Alister Almeida (@miali4657)](https://github.com/miali4657)  
+- [Jelestina Nadar (@Jelestina)](https://github.com/Jelestina)
+- [Alister Almeida (@miali4657)](https://github.com/miali4657)
+
 
