@@ -26,5 +26,5 @@ we determine whether the eyes are open or they are closed.</br></br>
 ## 👩‍💻 Contributors  
 - [Saileen Fernandes (@Sai25Hajime)](https://github.com/Sai25Hajime)
   
-- [Yohan Mavely (@BlueLightningWizard)](https://github.com/BlueLightningWizard)  
+- [Alister Almeida (@miali4657)](https://github.com/miali4657)  
 
