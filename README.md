@@ -22,3 +22,9 @@ we determine whether the eyes are open or they are closed.</br></br>
 2) Then Select 'Download Zip'.
 3) Extract the folder.
 4) Run it in Visual Studio Code.
+
+## 👩‍💻 Contributors  
+- [Saileen Fernandes (@Sai25Hajime)](https://github.com/Sai25Hajime)
+  
+- [Yohan Mavely (@BlueLightningWizard)](https://github.com/BlueLightningWizard)  
+
