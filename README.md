@@ -15,7 +15,9 @@ we determine whether the eyes are open or they are closed.</br></br>
 <li>Now this ratio is totally dependent on your system which you may configure accordingly for the thresholds of sleeping, drowsy, active.</ul>
 <p align="center">
   <img src="images/active.jpg" height="350">
+  
   <img src="images/sleepy.jpg" height="350">
+  
   <img src="images/drowsy.jpg" height="350">
 </p>
 
