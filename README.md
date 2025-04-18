@@ -21,11 +21,15 @@ we determine whether the eyes are open or they are closed.</br></br>
   <img src="images/drowsy.jpg" height="350">
 </p>
 
+---
+
 # How to Download the Project?
 1) Click on the Code option.
 2) Then Select 'Download Zip'.
 3) Extract the folder.
 4) Run it in Visual Studio Code.
+
+---
 
 ## 👩‍💻 Contributors/Collaborators  
 - [Saileen Fernandes (@Sai25Hajime)](https://github.com/Sai25Hajime)
