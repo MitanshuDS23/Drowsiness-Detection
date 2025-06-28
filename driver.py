@@ -51,7 +51,7 @@ message = ""
 while True:
     _, frame = cap.read()
     gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
-    gray = np.ascontiguousarray(gray, dtype=np.uint8)
+    gray = np.ascontiguousarray(gray, dtype=np.uint8)        # to fix image format issues with dlib library
     faces = detector(gray)
     # Calculate current time
     current_time = int(time.time() - start_time)
@@ -108,7 +108,7 @@ while True:
     cv2.imshow("Frame", frame)
     cv2.imshow("Result of detector", face_frame)
     key = cv2.waitKey(1)
-    if key == 27:
+    if key == 27:  # Press the ESC (Escape) Key
         break
 # Release the camera and stop the warning sound
 cap.release()
