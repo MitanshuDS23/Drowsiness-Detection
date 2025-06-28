@@ -51,6 +51,7 @@ message = ""
 while True:
     _, frame = cap.read()
     gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
+    gray = np.ascontiguousarray(gray, dtype=np.uint8)
     faces = detector(gray)
     # Calculate current time
     current_time = int(time.time() - start_time)
