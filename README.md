@@ -13,7 +13,7 @@ we determine whether the eyes are open or they are closed.</br></br>
 
 # Important files to download
 Please download these files before running the project:
-<b>Python version required: 3.10.<a href="https://www.python.org/downloads/release/python-3100/">It can be found here</a></b>.
+<b>Python version required: 3.10.</b><b> <a href="https://www.python.org/downloads/release/python-3100/">It can be found here</a></b>.
 
 <b>The 68-landmark detector data (.dat) file can be found <a href="https://github.com/davisking/dlib-models">by clicking here</a></b>.
 
