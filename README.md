@@ -36,6 +36,10 @@ Please download these files before running the project:
 
 ---
 
+## To install the libraries
+1. Here is the command
+   ```bash
+   pip install -r requirements.txt 
 
 # The working of the project
 <ul><li>As you can see the<b> above screenshot</b> where the landmarks are detected using the detector.
