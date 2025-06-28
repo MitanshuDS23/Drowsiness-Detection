@@ -18,6 +18,7 @@ Please download these files before running the project:
 
 <b>The 68-landmark detector data (.dat) file can be found <a href="https://github.com/davisking/dlib-models">by clicking here</a></b>.
 
+<b>Dlib Wheel file <a href="https://github.com/z-mahmud22/Dlib_Windows_Python3.x/blob/main/dlib-19.22.99-cp310-cp310-win_amd64.whl">can be found here</a></b>
 
 ---
 
@@ -39,9 +40,13 @@ Please download these files before running the project:
 1) Click on the Code option.
 2) Then Select 'Download Zip'.
 3) Extract the folder.
-4) Please run the main.py file in Visual Studio Code. (It works)
+4) Please run the **main.py** file in Visual Studio Code. (It works)
 
 ---
+
+**Warning: Due to dlib having strict image requirements. You are likely to get error in image formats when running the other files like below. 
+
+That's why. Please run main.py only for best results as it only uses opencv**
 
 ## 👩‍💻 Contributors/Collaborators  
 - [Saileen Fernandes (@Sai25Hajime)](https://github.com/Sai25Hajime)
