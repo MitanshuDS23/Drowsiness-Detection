@@ -27,12 +27,12 @@ Please download these files before running the project:
 # Virtual environment command:
 1) Activation
 ```bash
-   py -3.10 -m venv venv
-   venv\Scripts\activate
+py -3.10 -m venv venv
+venv\Scripts\activate
 
 2) Deactivation
 ```bash
-   deactivate
+deactivate
 
 <h3>The working of the project</h3>
 <ul><li>As you can see the<b> above screenshot</b> where the landmarks are detected using the detector.
