@@ -10,7 +10,8 @@ we determine whether the eyes are open or they are closed.</br></br>
 <p align="center">
   <img src="images/landmarks.jpg" height="350">
 </p>
-<b>The 68-landmark detector data (.dat) file can be found <a href="[http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2](https://github.com/davisking/dlib-models)"> By clicking here</a></B>
+<b>The 68-landmark detector data (.dat) file can be found <a href="https://github.com/davisking/dlib-models">by clicking here</a></b>
+
 
 ---
 
