@@ -34,6 +34,8 @@ venv\Scripts\activate
 ```bash
 deactivate
 
+---
+
 <h3>The working of the project</h3>
 <ul><li>As you can see the<b> above screenshot</b> where the landmarks are detected using the detector.
 <li>Now we are taking the ratio which is described as <i>'Sum of distances of vertical landmarks divided by twice the distance between horizontal landmarks'</i>.
