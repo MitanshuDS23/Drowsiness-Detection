@@ -23,7 +23,7 @@ Please download these files before running the project:
 ---
 
 <h3>The working of the project</h3>
-<ul><li>As you can see the<b> above screenshot</b> where the landmarks aredetected using the detector.
+<ul><li>As you can see the<b> above screenshot</b> where the landmarks are detected using the detector.
 <li>Now we are taking the ratio which is described as <i>'Sum of distances of vertical landmarks divided by twice the distance between horizontal landmarks'</i>.
 <li>Now this ratio is totally dependent on your system which you may configure accordingly for the thresholds of sleeping, drowsy, active.</ul>
 <p align="center">
@@ -40,13 +40,12 @@ Please download these files before running the project:
 1) Click on the Code option.
 2) Then Select 'Download Zip'.
 3) Extract the folder.
-4) Please run the **main.py** file in Visual Studio Code. (It works)
+4) Install all the important files in # Important files to download section and the requirements.txt file. Both of these are required to run the project.
+5) Use python version 10 for best results.
+6) Please run the **driver.py** file in Visual Studio Code. (It works)
 
 ---
 
-**Warning: Due to dlib having strict image requirements. You are likely to get error in image formats when running the other files like below. 
-
-That's why. Please run main.py only for best results as it only uses opencv**
 
 ## 👩‍💻 Contributors/Collaborators  
 - [Saileen Fernandes (@Sai25Hajime)](https://github.com/Sai25Hajime)
