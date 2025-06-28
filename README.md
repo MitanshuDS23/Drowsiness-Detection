@@ -29,6 +29,7 @@ Please download these files before running the project:
 ```bash
    py -3.10 -m venv venv
    venv\Scripts\activate
+
 2) Deactivation
 ```bash
    deactivate
