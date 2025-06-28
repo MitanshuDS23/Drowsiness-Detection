@@ -14,13 +14,24 @@ we determine whether the eyes are open or they are closed.</br></br>
 # Important files to download
 Please download these files before running the project:
 
-<b>Python version required: 3.10.</b><b> <a href="https://www.python.org/downloads/release/python-3100/">It can be found here</a></b>.
+<b>Python version required: 3.10.</b><b> <a href="https://www.python.org/downloads/release/python-3100/">It can be found here</a></b>. 
+
+**Imp Note:** Pls add it to PATH on System variables by clicking on PATH then Edit and then New then press Ok to save.
 
 <b>The 68-landmark detector data (.dat) file can be found <a href="https://github.com/davisking/dlib-models">by clicking here</a></b>.
 
 <b>Dlib Wheel file <a href="https://github.com/z-mahmud22/Dlib_Windows_Python3.x/blob/main/dlib-19.22.99-cp310-cp310-win_amd64.whl">can be found here</a></b>
 
 ---
+
+# Virtual environment command:
+1) Activation
+```bash
+   py -3.10 -m venv venv
+   venv\Scripts\activate
+2) Deactivation
+```bash
+   deactivate
 
 <h3>The working of the project</h3>
 <ul><li>As you can see the<b> above screenshot</b> where the landmarks are detected using the detector.
