@@ -55,7 +55,7 @@ Please download these files before running the project:
 1) Click on the Code option.
 2) Then Select 'Download Zip'.
 3) Extract the folder.
-4) Install all the important files in # Important files to download section and the requirements.txt file. Both of these are required to run the project.
+4) Install all the important files in [Important files to download](#important-files-to-download) section and the requirements.txt file. Both of these are required to run the project.
 5) Use python version 10 for best results.
 6) Please run the **driver.py** file in Visual Studio Code. (It works)
 
