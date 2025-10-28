@@ -7,9 +7,7 @@ Driver drowsiness detection is a Sem 5 mini project for my computer engineering 
 The project includes direct working with the 68 facial landmark detector and also the face detector of the Dlib library.
 The 68 facial landmark detector is a robustly trained efficient detector which detects the points on the human face using which 
 we determine whether the eyes are open or they are closed.</br></br>
-<p align="center">
-  <img src="images/landmarks.jpg" height="350">
-</p>
+
 
 # Important files to download
 Please download these files before running the project:
@@ -45,14 +43,6 @@ Please download these files before running the project:
 <ul><li>As you can see the<b> above screenshot</b> where the landmarks are detected using the detector.
 <li>Now we are taking the ratio which is described as <i>'Sum of distances of vertical landmarks divided by twice the distance between horizontal landmarks'</i>.
 <li>Now this ratio is totally dependent on your system which you may configure accordingly for the thresholds of sleeping, drowsy, active.</ul>
-<p align="center">
-  <img src="images/active.jpg" height="350">
-  <br></br>
-  <img src="images/sleepy.jpg" height="350">
-  <br></br>
-  <img src="images/drowsy.jpg" height="350">
-</p>
-
 ---
 
 # How to Download the Project?
